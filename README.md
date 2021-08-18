@@ -1,5 +1,5 @@
 
-# Metrological Scanning Infrastructure & Data
+# Meteorological Scanning Infrastructure & Data
 
 ### South Station
 SELEX Gematronik Meteor 500C

@@ -1,0 +1,1 @@
+Can find radars here: https://www.accuweather.com/no/no/selje/255280/weather-radar/255280

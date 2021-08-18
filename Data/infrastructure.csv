@@ -1,0 +1,2 @@
+id, Name, Coverage, Hardware, latitude, longitude, range (m), frequency, pulse repetition frequency, pulsewidth, peak power
+1, Bømlo,"[Bergen,Haugesund,Stavanger]",SELEX Gematronik Meteor 500C,59.853755382941515,5.089496472163074,500000,5.45 - 5.82 GHz,200 - 1200 Hz,"0,5 - 2 µs", 250 kW
